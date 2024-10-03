@@ -1,0 +1,16 @@
+{
+  "name": "mysql-docker-connection-app",
+  "version": "1.0.0",
+  "description": "A Node.js app to connect to MySQL in Docker",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.21.0",
+    "mysql2": "^3.11.2"
+  },
+  "author": "Prerana",
+  "license": "ISC"
+}
