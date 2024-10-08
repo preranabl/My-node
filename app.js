@@ -25,7 +25,7 @@ connection.connect((err) => {
 
 // Define a simple route
 app.get('/', (req, res) => {
-  res.send('Hello World!');
+  res.send('Happy Dashain 2081');
 });
 
 // Start the server
